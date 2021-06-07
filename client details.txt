@@ -1,0 +1,5 @@
+Unreal Engine Version:
+4.18.0
+
+Save files:
+They are serialized, so no basic encryption here. Just need the method to deserialize the file.

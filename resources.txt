@@ -1,0 +1,11 @@
+- Cheat Engine:
+	https://www.cheatengine.org/downloads.php
+	-> Basic disassembler and debug tool
+
+- Unreal Finder Tool:
+	https://github.com/CorrM/Unreal-Finder-Tool
+	-> Great to find class structures addresses
+
+- Unreal Engine hacking guide:
+	https://guidedhacking.com/threads/unreal-engine-game-hacking.14278/
+	-> Good resource to udnerstand what is possible with unreal engine reversing

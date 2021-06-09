@@ -9,3 +9,7 @@
 - Unreal Engine hacking guide:
 	https://guidedhacking.com/threads/unreal-engine-game-hacking.14278/
 	-> Good resource to udnerstand what is possible with unreal engine reversing
+
+- UEViewer:
+	https://github.com/gildor2/UEViewer
+	-> Snoop into unversioned Unreal Engine Assets

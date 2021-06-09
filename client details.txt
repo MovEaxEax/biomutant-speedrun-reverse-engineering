@@ -3,3 +3,10 @@ Unreal Engine Version:
 
 Save files:
 They are serialized, so no basic encryption here. Just need the method to deserialize the file.
+
+Tables are for version 1.3, it's the oldest one available on steam archive:
+	- App ID: 597820
+	- Depot ID: 597821
+	- Manifest: 1002139280845542806
+
+
